@@ -1,2 +1,2 @@
 # ev3_bolide_canon
- véhicule téléguidé avec moteur actionné par senseur
+ Véhicule téléguidé avec moteur actionné par un senseur. Conçu pour une compétition de robotique où le canon doit s'Activer automatiquement, sans intervention.
